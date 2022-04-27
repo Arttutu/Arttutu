@@ -1,16 +1,18 @@
-### Hi there 👋
+--> Olá Mundo
 
-<!--
-**Arttutu/Arttutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> Meu nome é Arthur Gomes tenho 22 anos, sou estudante Ciências da computação pela UFABC, eu amo aprender e estar sempre em evolução , focado em dominar tecnologias
+    para me tornar um desenvolvedor back-end.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> 🌱 Eu estou aprendendo HTML E CSS
+
+--> 🌱 Eu estou estudando Python e Flask.
+
+-->  Aqui algumas informações importantes.
+
+  Meu portifólio em construção: http://portifolioarthur.com/
+  
+  Meu linkedin : linkedin.com/in/arthur-gomes-4bb479159
+  
+  e-mail: arthurtt08@gmail.com
+

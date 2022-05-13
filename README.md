@@ -4,9 +4,9 @@
     para me tornar um desenvolvedor back-end.
 
 
---> 🌱 Eu estou aprendendo HTML E CSS
+--> 🌱 Eu estou aprendendo SQL
 
---> 🌱 Eu estou estudando Python e Flask.
+--> 🌱 Eu estou estudando Python e Django.
 
 -->  Aqui algumas informações importantes.
 

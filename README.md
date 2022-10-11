@@ -5,7 +5,6 @@
 
 -->  Aqui algumas informações importantes.
 
-  Meu portifólio em construção: http://portifolioarthur.com/
   
   Meu linkedin : linkedin.com/in/arthur-gomes-4bb479159
   

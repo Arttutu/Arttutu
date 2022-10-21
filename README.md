@@ -6,7 +6,7 @@
 -->  Aqui algumas informações importantes.
 
   
-  Meu linkedin : linkedin.com/in/arthur-gomes-4bb479159
+  Meu linkedin : https://www.linkedin.com/in/santos-gomes/details/featured/
   
   Meu portfolio : https://arttutu.github.io/meu-site-pessoal/
   

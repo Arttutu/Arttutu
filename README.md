@@ -8,5 +8,7 @@
   
   Meu linkedin : linkedin.com/in/arthur-gomes-4bb479159
   
+  Meu portfolio : https://arttutu.github.io/meu-site-pessoal/
+  
   e-mail: arthurtt08@gmail.com
 

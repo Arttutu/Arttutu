@@ -10,5 +10,5 @@
   
   Meu portfolio : https://arttutu.github.io/meu-site-pessoal/
   
-  e-mail: arthurtt08@gmail.com
+  E-mail: arthurtt08@gmail.com
 

@@ -1,7 +1,7 @@
 --> Olá Mundo
 
 --> Meu nome é Arthur Gomes tenho 22 anos, sou estudante de Ciências da computação pela UFABC, eu amo aprender e estar sempre em evolução , focado em dominar tecnologias
-    para me tornar um desenvolvedor back-end.
+    para me tornar um desenvolvedor.
 
 -->  Aqui algumas informações importantes.
 

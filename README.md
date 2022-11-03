@@ -8,7 +8,7 @@
   
   Meu linkedin : https://www.linkedin.com/in/santos-gomes/
   
-  Meu portfolio : https://arttutu.github.io/meu-site-pessoal/
+  Meu portfolio : https://arttutu.github.io/meu_portfolio/
   
   E-mail: arthurtt08@gmail.com
 

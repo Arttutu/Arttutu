@@ -1,5 +1,5 @@
 # 🧔 Sobre mim:
-👨‍💻 Buscando oportunidade de emprego<br> 👨‍🎓 Estudando Análise e Desenvolvimento de sistema <br> 💪 Fullstack develop<br>🌱 Estudando Front-end<br><br>
+👨‍💻 Buscando oportunidade de emprego<br> 👨‍🎓  Estudando Análise e Desenvolvimento de sistema <br> 💪 Fullstack develop<br>🌱 Estudando Front-end<br><br>
 
 
 ## 🌐 Contato:

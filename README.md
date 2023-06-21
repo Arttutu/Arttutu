@@ -1,9 +1,20 @@
-# 🧔 Sobre mim:
+# Olá, eu sou a Katherine! 👋
+
+## 🧔 Sobre mim:
+
+Apaixonado por tecnologia e pelo desenvolvimento de aplicativos e sites, possuo uma dedicação e foco significativos em meus projetos e estudos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma oportunidade de trabalho como Desenvolvedor Estagiário/Júnior. Estou disponível no mercado e extremamente interessado em contribuir ao máximo para uma empresa, buscando evoluir e aprender ainda mais como profissional. Adoraria ter a oportunidade de conversar e compartilhar mais sobre mim, bem como demonstrar como minhas habilidades podem contribuir para o crescimento da sua empresa.
+
 👨‍💻 Buscando oportunidade de emprego<br> 👨‍🎓  Estudando Análise e Desenvolvimento de sistema <br> 💪 Fullstack develop<br>🌱 Estudando Front-end<br><br>
 
-# 💻 Habilidades:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arttutu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arttutu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+## 🛠 Habilidades
+Javascript, HTML, React, Python , OO, StyledComponents, SCSS, CSS ...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-arthur.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santos-gomes/)
+
+
 

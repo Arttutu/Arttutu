@@ -1,4 +1,4 @@
-# Olá, eu sou a Katherine! 👋
+# Olá, eu sou a Arthur! 👋
 
 ## 🧔 Sobre mim:
 

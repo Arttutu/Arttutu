@@ -9,7 +9,8 @@ Apaixonado por tecnologia e pelo desenvolvimento de aplicativos e sites, possuo 
 
 
 ## 🛠 Habilidades
-Javascript, HTML, React, Python , OO, StyledComponents, SCSS, CSS ...
+Front-End | React | Next.js | JavaScript | Tailwind | Styled-Componetes | Figma | Github
+
 
 
 ## 🔗 Links

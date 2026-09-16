@@ -1,15 +1,8 @@
 # Olá, eu sou a Arthur! 👋
 
-## 🧔 Sobre mim:
 
-Apaixonado por tecnologia e pelo desenvolvimento de aplicativos e sites, possuo uma dedicação e foco significativos em meus projetos e estudos. Atualmente,  sou formado em Análise e Desenvolvimento de Sistemas e busco uma oportunidade de trabalho como Desenvolvedor Estagiário/Júnior. Estou disponível no mercado e extremamente interessado em contribuir ao máximo para uma empresa, buscando evoluir e aprender ainda mais como profissional. Adoraria ter a oportunidade de conversar e compartilhar mais sobre mim, bem como demonstrar como minhas habilidades podem contribuir para o crescimento da sua empresa.
-💪 Fullstack develop
-
-
-
-## 🛠 Habilidades
-Front-End | React | Next.js | JavaScript | Tailwind | Styled-Componetes | Figma | Github
-
+##  Habilidades
+Desenvolvedor | Next.js | Nest.js | Node.js | JavaScript | TypeScript | Google Cloud Plataform
 
 
 ## 🔗 Links

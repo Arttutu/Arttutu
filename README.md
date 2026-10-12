@@ -11,7 +11,5 @@ Desenvolvedor | Next.js | Nest.js | Node.js | JavaScript | TypeScript | Google C
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arttutu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arttutu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 
